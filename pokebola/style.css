@@ -1,0 +1,16 @@
+body{
+    background-color: #6CB3A9;
+    margin: 0;
+}
+
+.superior{
+    background-color: #D25B70;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-top-left-radius: 75%;
+    border-top-right-radius: 75%;
+}
